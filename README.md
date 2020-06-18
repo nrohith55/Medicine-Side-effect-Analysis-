@@ -1,2 +1,2 @@
-# Medicine-Side-effect-Analysis
+# Project 1 : Medicine-Side-effect-Analysis
 Medicine Side-effect Analysis : Aim of the project is to find whether the given drug has a side effect or not.This data set provides the opinions of consumers about their conditions and the medicines that they have used.This product could be helpful for companies like 1mg to provide detailed rating of the side effects of the product over their site. It could also be helpful for the patients who are buying drugs online to check the side effects of the drugs before buying it.
