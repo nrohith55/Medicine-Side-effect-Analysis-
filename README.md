@@ -22,7 +22,7 @@ Following are the steps followed during any data science projects:(Project Flow)
                              c)Graphical representation :Represent the data set with the help of Graphs such as Line plot,Bar plot,Histogram plot,Pie chart,Box plot and try to                                  get inferences/insights from it.
                              d)we should find the correlation in the data set.All the features should be independent to each other.
  
- 4)Data Preprocessing
+ 4)Data Preprocessing:
 
 Data preprocessing is noting but cleaning the data and removing unwanted material out of your data like noise,duplicate records,inconsistancy,missing values.Following are the steps involved
      a)Data Cleaning step plays a very important role here.In this project we have text data .So this chould be converted to mathematical form before                                    model building.Before we do that we should do text cleaning.Text cleaning steps involves removing of noise in the data set such as removing of  
