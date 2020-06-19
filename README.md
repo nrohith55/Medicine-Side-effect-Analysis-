@@ -21,6 +21,7 @@ Following are the steps followed during any data science projects:(Project Flow)
                              b)Check whether the data is normally disrtibuted or not.If it is not Normally distributed apply scaling technique.
                              c)Graphical representation :Represent the data set with the help of Graphs such as Line plot,Bar plot,Histogram plot,Pie chart,Box plot and try to                                  get inferences/insights from it.
                              d)we should find the correlation in the data set.All the features should be independent to each other.
+ 
  4)Data Preprocessing
 
 Data preprocessing is noting but cleaning the data and removing unwanted material out of your data like noise,duplicate records,inconsistancy,missing values.Following are the steps involved
