@@ -56,7 +56,8 @@ SMOTE : stands for Synthetic Minority Oversampling Technique. This is a statisti
         
  7)Model Deployment :
  
-        Here we finalized Linear SVC model since it has better accuracy ,precison,recall and f1 score values than all other models. For deployment we have create two files like app.py and server.py. Model.pkl file is also created.
+        Here we finalized Linear SVC model since it has better accuracy ,precison,recall and f1 score values than all other models. 
+        For deployment we have create two files like app.py and server.py. Model.pkl file is also created.
 
 Flask File creation:
 ●	In the second file named server.py in this we have import flask
